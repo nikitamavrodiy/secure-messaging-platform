@@ -21,12 +21,4 @@ This project is built to practice and demonstrate:
 - [Project status](docs/PROJECT_STATUS.md)
 - [Tech Stack (Planned)](docs/TECH_STACK.md)
 
-## Development Environment
-
-- JDK: Eclipse Temurin 21 (LTS)
-- Build Tool: Maven
-- IDE: IntelliJ IDEA Ultimate
-
-The project targets Java 21 (LTS) to align with modern enterprise standards.
-
 
