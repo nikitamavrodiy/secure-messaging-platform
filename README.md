@@ -14,17 +14,11 @@ This project is built to practice and demonstrate:
 - Dockerized multi-service deployment
 - Professional testing practices
 
-## Architectural Style
+[Scope (what system will do)](docs/PROJECT_SCOPE.md)
+[Best and suitable architecture](docs/ARCHITECTURE.md)
+[Project status](docs/PROJECT_STATUS.md)
+[Product backlog/feature list](docs/PRODUCT_BACKLOG.md)
 
-Modular Monolith:
-- Cleanly separated feature modules
-- Single deployable Spring Boot application
-- External services: PostgreSQL, Redis
-
-## Architecture Decision Rationale
-
-A modular monolith was chosen to maintain simplicity while enforcing clean separation of features.
-This allows scalable architecture without premature microservice complexity.
 
 ## Tech Stack (Planned)
 
@@ -45,6 +39,4 @@ This allows scalable architecture without premature microservice complexity.
 
 The project targets Java 21 (LTS) to align with modern enterprise standards.
 
-## Project Status
 
-Version 0.0 – Initial planning phase
