@@ -7,22 +7,22 @@ Core Backend
 - WebSocket (STOMP)
   
 Data & Messaging
--PostgreSQL
--Redis
+- PostgreSQL
+- Redis
   
 Security
--JWT (Authentication & Authorization)
--BCrypt (Password hashing)
+- JWT (Authentication & Authorization)
+- BCrypt (Password hashing)
   
 Testing
--JUnit 5
--Mockito
+- JUnit 5
+- Mockito
   
 DevOps & Infrastructure
--Docker
--Docker Compose
+- Docker
+- Docker Compose
 
 Development Environment
--IntelliJ IDEA
--Maven
--Eclipse Temurin JDK 21
+- IntelliJ IDEA
+- Maven
+- Eclipse Temurin JDK 21
