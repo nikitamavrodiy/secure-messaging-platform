@@ -26,3 +26,5 @@ Development Environment
 - IntelliJ IDEA
 - Maven
 - Eclipse Temurin JDK 21
+
+The project targets Java 21 (LTS) to align with modern enterprise standards.
