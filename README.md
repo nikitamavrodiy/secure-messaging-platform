@@ -22,7 +22,7 @@ ___
 - [Best and suitable architecture](docs/ARCHITECTURE.md)
 - [Feature list](docs/FEATURE_LIST.md)
 ___
-- [Timeline](docs/TIMELINE_STRUCTURE.md)
 - [Effort estimation](docs/EFFORT_ESTIMATION.md)
+- [Timeline](docs/TIMELINE_STRUCTURE.md)
 ___
 - [Project status](docs/PROJECT_STATUS.md)
