@@ -19,7 +19,7 @@ This project is built to practice and demonstrate:
 - [Best and suitable architecture](docs/ARCHITECTURE.md)
 - [Product backlog/feature list](docs/PRODUCT_BACKLOG.md)
 - [Project status](docs/PROJECT_STATUS.md)
-- [ech Stack (Planned)](docs/TECH_STACK.md)
+- [Tech Stack (Planned)](docs/TECH_STACK.md)
 
 ## Development Environment
 
