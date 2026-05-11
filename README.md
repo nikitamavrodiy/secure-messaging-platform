@@ -24,5 +24,7 @@ ___
 ___
 - [Effort estimation](docs/EFFORT_ESTIMATION.md)
 - [Timeline](docs/TIMELINE_STRUCTURE.md)
+
+- [risks](docs/RISKS.md)
 ___
 - [Project status](docs/PROJECT_STATUS.md)
