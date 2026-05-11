@@ -16,9 +16,13 @@ This project is built to practice and demonstrate:
 
 ## Docs
 - [Scope (what system will do)](docs/PROJECT_SCOPE.md)
-- [Best and suitable architecture](docs/ARCHITECTURE.md)
-- [Product backlog/feature list](docs/PRODUCT_BACKLOG.md)
-- [Project status](docs/PROJECT_STATUS.md)
 - [Tech Stack (Planned)](docs/TECH_STACK.md)
 
+- [Requirements](docs/PROJECT_REQUIREMENTS.md)
+- [Best and suitable architecture](docs/ARCHITECTURE.md)
+- [Feature list](docs/FEATURE_LIST.md)
 
+- [Timeline](docs/TIMELINE_STRUCTURE.md)
+- [Effort estimation](docs/EFFORT_ESTIMATION.md)
+
+- [Project status](docs/PROJECT_STATUS.md)
