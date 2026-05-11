@@ -14,22 +14,12 @@ This project is built to practice and demonstrate:
 - Dockerized multi-service deployment
 - Professional testing practices
 
-[Scope (what system will do)](docs/PROJECT_SCOPE.md)
-[Best and suitable architecture](docs/ARCHITECTURE.md)
-[Project status](docs/PROJECT_STATUS.md)
-[Product backlog/feature list](docs/PRODUCT_BACKLOG.md)
-
-
-## Tech Stack (Planned)
-
-- Java 21 (LTS)
-- Spring Boot 3.x
-- Spring Security
-- WebSocket (STOMP)
-- PostgreSQL
-- Redis
-- Docker & Docker Compose
-- JUnit & Mockito
+## Docs
+- [Scope (what system will do)](docs/PROJECT_SCOPE.md)
+- [Best and suitable architecture](docs/ARCHITECTURE.md)
+- [Product backlog/feature list](docs/PRODUCT_BACKLOG.md)
+- [Project status](docs/PROJECT_STATUS.md)
+- [ech Stack (Planned)](docs/TECH_STACK.md)
 
 ## Development Environment
 
